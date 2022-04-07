@@ -17,7 +17,7 @@ module.exports = {
   title: "Make America Great Again",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/社会主义扶墙民主',
+  baseDirectory: '/社会主义扶墙民主/中转站',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
